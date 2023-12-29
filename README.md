@@ -32,7 +32,8 @@ with open(sys.argv[0],'r') as f:
 print("Number of words={}".format(num_words))
 ```
 ### OUTPUT:
-![Alt text](<Screenshot 2023-12-29 202817.png>)
+
+![Screenshot 2023-12-29 202817](https://github.com/sasintharparanthaman/command-line-arguments-to-count-word/assets/145743219/640719b6-34d1-422d-8e7e-b37979e51bad)
 
 
 ## RESULT:
